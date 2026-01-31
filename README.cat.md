@@ -77,8 +77,7 @@ El notebook segueix els següents passos principals:
 ## ⚙️ Tecnologies utilitzades
 
 - Python  
-- Pandas  
-- NumPy  
+- Pandas 
 - Scikit-learn  
 - Matplotlib  
 - Seaborn  
